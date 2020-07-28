@@ -1,0 +1,84 @@
+{
+  "uid" : "21526792ab3d2d71",
+  "name" : "Search a hotel",
+  "fullName" : "Find a hotel.Search a hotel",
+  "historyId" : "451e1e6addeec3cdfa28270d5daef471",
+  "time" : {
+    "start" : 1595915741755,
+    "stop" : 1595915770121,
+    "duration" : 28366
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testClass",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search a hotel"
+  }, {
+    "name" : "package",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b82dc011aa359ca5",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n                  (Session info: chrome=84.0.4147.89)",
+      "time" : {
+        "start" : 1595915579503,
+        "stop" : 1595915601042,
+        "duration" : 21539
+      }
+    }, {
+      "uid" : "9b91e3dc16ed5aef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915334023,
+        "stop" : 1595915363963,
+        "duration" : 29940
+      }
+    }, {
+      "uid" : "85b9ee564e524d2e",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <select id=\"MySpiceTripSearchView_DropDownListPassengerType_ADT\" class=\"wMed1s required\" name=\"MySpiceTripSearchView$DropDownListPassengerType_ADT\">...</select> is not clickable at point (1150, 234). Other element would receive the click: <div class=\"ui-datepicker-title\">...</div>\n                  (Session info: chrome=84.0.4147.89)",
+      "time" : {
+        "start" : 1595914529520,
+        "stop" : 1595914561948,
+        "duration" : 32428
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21526792ab3d2d71.json",
+  "parameterValues" : [ "chrome" ]
+}

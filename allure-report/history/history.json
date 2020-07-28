@@ -1,0 +1,138 @@
+{
+  "451e1e6addeec3cdfa28270d5daef471" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21526792ab3d2d71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915741755,
+        "stop" : 1595915770121,
+        "duration" : 28366
+      }
+    } ]
+  },
+  "97364e9a82e39f158d3d1c6feea66392" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3cf98237daadd47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915698137,
+        "stop" : 1595915725930,
+        "duration" : 27793
+      }
+    } ]
+  },
+  "1461ab9848c61929fd87b34af2fc2d79" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdac097c0c41d507",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915830647,
+        "stop" : 1595915858183,
+        "duration" : 27536
+      }
+    } ]
+  },
+  "1fba7eadd9b0ff48400e3768aba89107" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2a9562951b927a0c",
+      "status" : "broken",
+      "statusDetails" : "Parameter for \"url\" command needs to be type of string",
+      "time" : {
+        "start" : 1595915601044,
+        "stop" : 1595915601854,
+        "duration" : 810
+      }
+    } ]
+  },
+  "5181cf4d46a35420454c8886b3f2d3e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dda910e7ff826e9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915783559,
+        "stop" : 1595915817055,
+        "duration" : 33496
+      }
+    } ]
+  },
+  "296453a1698009d32e896b1744769ab7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "31f4aaa7adaf5716",
+      "status" : "broken",
+      "statusDetails" : "Parameter for \"url\" command needs to be type of string",
+      "time" : {
+        "start" : 1595915530765,
+        "stop" : 1595915531392,
+        "duration" : 627
+      }
+    } ]
+  },
+  "355f60e2ca0292c9f7d4d5152111748c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e4beeda16c3d28c",
+      "status" : "broken",
+      "statusDetails" : "Command \"maximizeWindow\" is not yet implemented",
+      "time" : {
+        "start" : 1595915512327,
+        "stop" : 1595915530763,
+        "duration" : 18436
+      }
+    } ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "2a9562951b927a0c",
+  "name" : "Searching location",
+  "fullName" : "Find a hotel.Searching location",
+  "historyId" : "1fba7eadd9b0ff48400e3768aba89107",
+  "time" : {
+    "start" : 1595915601044,
+    "stop" : 1595915601854,
+    "duration" : 810
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Parameter for \"url\" command needs to be type of string",
+  "statusTrace" : "Error: Parameter for \"url\" command needs to be type of string\n                    at Browser.url (C:\\Workspace_js\\Webdriver_POC\\node_modules\\webdriverio\\build\\commands\\browser\\url.js:16:11)\n                    at Browser.runCommandWithHooks (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:30)\n                    at Browser.runCommandWithHooks (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace_js\\Webdriver_POC\\test\\HotelTest.js:34:14)\n                    at Context.executeSync (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testClass",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testMethod",
+    "value" : "Searching location"
+  }, {
+    "name" : "package",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "52a1784a9eb999d5",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 60000ms exceeded. The execution in the test \"Find a hotel Searching location\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (C:\\Workspace_js\\Webdriver_POC\\test\\HotelTest.js)",
+      "time" : {
+        "start" : 1595915363964,
+        "stop" : 1595915423972,
+        "duration" : 60008
+      }
+    }, {
+      "uid" : "3554bb771f3a5a8a",
+      "status" : "broken",
+      "statusDetails" : "Parameter for \"url\" command needs to be type of string",
+      "time" : {
+        "start" : 1595914561949,
+        "stop" : 1595914562809,
+        "duration" : 860
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2a9562951b927a0c.json",
+  "parameterValues" : [ "chrome" ]
+}

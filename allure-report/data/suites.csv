@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 28 11:26:23 IST 2020","Tue Jul 28 11:26:57 IST 2020","33496","","Sign up for a user","","Sign up for a user","Sign up ","Sign up ",""
+"passed","Tue Jul 28 11:27:10 IST 2020","Tue Jul 28 11:27:38 IST 2020","27536","","Spice max page verification","","Spice max page verification","Verify and click on retrive","Verify and click on retrive",""
+"broken","Tue Jul 28 11:22:10 IST 2020","Tue Jul 28 11:22:11 IST 2020","627","","Find a hotel","","Find a hotel","Searching location","Searching location",""
+"passed","Tue Jul 28 11:25:41 IST 2020","Tue Jul 28 11:26:10 IST 2020","28366","","Find a hotel","","Find a hotel","Search a hotel","Search a hotel",""
+"passed","Tue Jul 28 11:24:58 IST 2020","Tue Jul 28 11:25:25 IST 2020","27793","","Search and Book a flight","","Search and Book a flight","Book a flight","Book a flight",""
+"broken","Tue Jul 28 11:23:21 IST 2020","Tue Jul 28 11:23:21 IST 2020","810","","Find a hotel","","Find a hotel","Searching location","Searching location",""
+"broken","Tue Jul 28 11:21:52 IST 2020","Tue Jul 28 11:22:10 IST 2020","18436","","Find a hotel","","Find a hotel","Search a hotel","Search a hotel",""

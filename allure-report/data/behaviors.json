@@ -1,0 +1,96 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Search a hotel",
+    "uid" : "2e4beeda16c3d28c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1595915512327,
+      "stop" : 1595915530763,
+      "duration" : 18436
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-10.0.17763" ]
+  }, {
+    "name" : "Searching location",
+    "uid" : "31f4aaa7adaf5716",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1595915530765,
+      "stop" : 1595915531392,
+      "duration" : 627
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "Chrome-10.0.17763" ]
+  }, {
+    "name" : "Searching location",
+    "uid" : "2a9562951b927a0c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1595915601044,
+      "stop" : 1595915601854,
+      "duration" : 810
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Book a flight",
+    "uid" : "b3cf98237daadd47",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595915698137,
+      "stop" : 1595915725930,
+      "duration" : 27793
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Search a hotel",
+    "uid" : "21526792ab3d2d71",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595915741755,
+      "stop" : 1595915770121,
+      "duration" : 28366
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Sign up ",
+    "uid" : "dda910e7ff826e9c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595915783559,
+      "stop" : 1595915817055,
+      "duration" : 33496
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "Verify and click on retrive",
+    "uid" : "fdac097c0c41d507",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1595915830647,
+      "stop" : 1595915858183,
+      "duration" : 27536
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome" ]
+  } ]
+}

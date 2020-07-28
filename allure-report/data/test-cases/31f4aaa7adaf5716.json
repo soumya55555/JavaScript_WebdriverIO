@@ -1,0 +1,64 @@
+{
+  "uid" : "31f4aaa7adaf5716",
+  "name" : "Searching location",
+  "fullName" : "Find a hotel.Searching location",
+  "historyId" : "296453a1698009d32e896b1744769ab7",
+  "time" : {
+    "start" : 1595915530765,
+    "stop" : 1595915531392,
+    "duration" : 627
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Parameter for \"url\" command needs to be type of string",
+  "statusTrace" : "Error: Parameter for \"url\" command needs to be type of string\n                    at Browser.url (C:\\Workspace_js\\Webdriver_POC\\node_modules\\webdriverio\\build\\commands\\browser\\url.js:16:11)\n                    at Browser.runCommandWithHooks (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:30)\n                    at Browser.runCommandWithHooks (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace_js\\Webdriver_POC\\test\\HotelTest.js:34:14)\n                    at Context.executeSync (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testClass",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testMethod",
+    "value" : "Searching location"
+  }, {
+    "name" : "package",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.17763"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "31f4aaa7adaf5716.json",
+  "parameterValues" : [ "Chrome-10.0.17763" ]
+}

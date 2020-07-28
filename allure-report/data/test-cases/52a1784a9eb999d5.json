@@ -1,0 +1,58 @@
+{
+  "uid" : "52a1784a9eb999d5",
+  "name" : "Searching location",
+  "fullName" : "Find a hotel.Searching location",
+  "historyId" : "1fba7eadd9b0ff48400e3768aba89107",
+  "time" : {
+    "start" : 1595915363964,
+    "stop" : 1595915423972,
+    "duration" : 60008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Find a hotel Searching location\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (C:\\Workspace_js\\Webdriver_POC\\test\\HotelTest.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Find a hotel Searching location\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts.html). (C:\\Workspace_js\\Webdriver_POC\\test\\HotelTest.js)\n                    at Test.Runnable._timeoutError (C:\\Workspace_js\\Webdriver_POC\\node_modules\\mocha\\lib\\runnable.js:425:10)\n                    at Timeout.<anonymous> (C:\\Workspace_js\\Webdriver_POC\\node_modules\\mocha\\lib\\runnable.js:237:24)\n                    at listOnTimeout (internal/timers.js:549:17)\n                    at processTimers (internal/timers.js:492:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testClass",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testMethod",
+    "value" : "Searching location"
+  }, {
+    "name" : "package",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52a1784a9eb999d5.json",
+  "parameterValues" : [ "chrome" ]
+}

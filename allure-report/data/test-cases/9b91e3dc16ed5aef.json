@@ -1,0 +1,56 @@
+{
+  "uid" : "9b91e3dc16ed5aef",
+  "name" : "Search a hotel",
+  "fullName" : "Find a hotel.Search a hotel",
+  "historyId" : "451e1e6addeec3cdfa28270d5daef471",
+  "time" : {
+    "start" : 1595915334023,
+    "stop" : 1595915363963,
+    "duration" : 29940
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testClass",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search a hotel"
+  }, {
+    "name" : "package",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b91e3dc16ed5aef.json",
+  "parameterValues" : [ "chrome" ]
+}

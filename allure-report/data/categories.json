@@ -1,0 +1,56 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Command \"maximizeWindow\" is not yet implemented",
+      "children" : [ {
+        "name" : "Search a hotel",
+        "uid" : "2e4beeda16c3d28c",
+        "parentUid" : "59474a2dfe3669a8141cd25b54838f39",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595915512327,
+          "stop" : 1595915530763,
+          "duration" : 18436
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome-10.0.17763" ]
+      } ],
+      "uid" : "59474a2dfe3669a8141cd25b54838f39"
+    }, {
+      "name" : "Parameter for \"url\" command needs to be type of string",
+      "children" : [ {
+        "name" : "Searching location",
+        "uid" : "31f4aaa7adaf5716",
+        "parentUid" : "6ab152e4f0d5f0578886512683edcc38",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595915530765,
+          "stop" : 1595915531392,
+          "duration" : 627
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome-10.0.17763" ]
+      }, {
+        "name" : "Searching location",
+        "uid" : "2a9562951b927a0c",
+        "parentUid" : "6ab152e4f0d5f0578886512683edcc38",
+        "status" : "broken",
+        "time" : {
+          "start" : 1595915601044,
+          "stop" : 1595915601854,
+          "duration" : 810
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "6ab152e4f0d5f0578886512683edcc38"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

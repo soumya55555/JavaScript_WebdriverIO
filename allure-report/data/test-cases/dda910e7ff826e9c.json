@@ -1,0 +1,58 @@
+{
+  "uid" : "dda910e7ff826e9c",
+  "name" : "Sign up ",
+  "fullName" : "Sign up for a user.Sign up ",
+  "historyId" : "5181cf4d46a35420454c8886b3f2d3e0",
+  "time" : {
+    "start" : 1595915783559,
+    "stop" : 1595915817055,
+    "duration" : 33496
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Sign up for a user"
+  }, {
+    "name" : "testClass",
+    "value" : "Sign up for a user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sign up "
+  }, {
+    "name" : "package",
+    "value" : "Sign up for a user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dda910e7ff826e9c.json",
+  "parameterValues" : [ "chrome" ]
+}

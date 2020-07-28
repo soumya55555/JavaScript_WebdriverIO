@@ -1,0 +1,71 @@
+[ {
+  "uid" : "31f4aaa7adaf5716",
+  "name" : "Searching location",
+  "time" : {
+    "start" : 1595915530765,
+    "stop" : 1595915531392,
+    "duration" : 627
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b3cf98237daadd47",
+  "name" : "Book a flight",
+  "time" : {
+    "start" : 1595915698137,
+    "stop" : 1595915725930,
+    "duration" : 27793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e4beeda16c3d28c",
+  "name" : "Search a hotel",
+  "time" : {
+    "start" : 1595915512327,
+    "stop" : 1595915530763,
+    "duration" : 18436
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dda910e7ff826e9c",
+  "name" : "Sign up ",
+  "time" : {
+    "start" : 1595915783559,
+    "stop" : 1595915817055,
+    "duration" : 33496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21526792ab3d2d71",
+  "name" : "Search a hotel",
+  "time" : {
+    "start" : 1595915741755,
+    "stop" : 1595915770121,
+    "duration" : 28366
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a9562951b927a0c",
+  "name" : "Searching location",
+  "time" : {
+    "start" : 1595915601044,
+    "stop" : 1595915601854,
+    "duration" : 810
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fdac097c0c41d507",
+  "name" : "Verify and click on retrive",
+  "time" : {
+    "start" : 1595915830647,
+    "stop" : 1595915858183,
+    "duration" : 27536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

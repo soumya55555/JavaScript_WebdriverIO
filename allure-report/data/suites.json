@@ -1,0 +1,112 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Find a hotel",
+    "children" : [ {
+      "name" : "Search a hotel",
+      "uid" : "2e4beeda16c3d28c",
+      "parentUid" : "63007b19cf270e5a5fc6e3dfe3b27756",
+      "status" : "broken",
+      "time" : {
+        "start" : 1595915512327,
+        "stop" : 1595915530763,
+        "duration" : 18436
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.17763" ]
+    }, {
+      "name" : "Searching location",
+      "uid" : "31f4aaa7adaf5716",
+      "parentUid" : "63007b19cf270e5a5fc6e3dfe3b27756",
+      "status" : "broken",
+      "time" : {
+        "start" : 1595915530765,
+        "stop" : 1595915531392,
+        "duration" : 627
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome-10.0.17763" ]
+    }, {
+      "name" : "Searching location",
+      "uid" : "2a9562951b927a0c",
+      "parentUid" : "63007b19cf270e5a5fc6e3dfe3b27756",
+      "status" : "broken",
+      "time" : {
+        "start" : 1595915601044,
+        "stop" : 1595915601854,
+        "duration" : 810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Search a hotel",
+      "uid" : "21526792ab3d2d71",
+      "parentUid" : "63007b19cf270e5a5fc6e3dfe3b27756",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915741755,
+        "stop" : 1595915770121,
+        "duration" : 28366
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "63007b19cf270e5a5fc6e3dfe3b27756"
+  }, {
+    "name" : "Search and Book a flight",
+    "children" : [ {
+      "name" : "Book a flight",
+      "uid" : "b3cf98237daadd47",
+      "parentUid" : "b42ba2016cbd354865e3424ee1b9f472",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915698137,
+        "stop" : 1595915725930,
+        "duration" : 27793
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "b42ba2016cbd354865e3424ee1b9f472"
+  }, {
+    "name" : "Sign up for a user",
+    "children" : [ {
+      "name" : "Sign up ",
+      "uid" : "dda910e7ff826e9c",
+      "parentUid" : "1debdf939eefee79896199a875f73a63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915783559,
+        "stop" : 1595915817055,
+        "duration" : 33496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "1debdf939eefee79896199a875f73a63"
+  }, {
+    "name" : "Spice max page verification",
+    "children" : [ {
+      "name" : "Verify and click on retrive",
+      "uid" : "fdac097c0c41d507",
+      "parentUid" : "3a2605af3567d90ad6b834626c8e2353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595915830647,
+        "stop" : 1595915858183,
+        "duration" : 27536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "3a2605af3567d90ad6b834626c8e2353"
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "2e4beeda16c3d28c",
+  "name" : "Search a hotel",
+  "fullName" : "Find a hotel.Search a hotel",
+  "historyId" : "355f60e2ca0292c9f7d4d5152111748c",
+  "time" : {
+    "start" : 1595915512327,
+    "stop" : 1595915530763,
+    "duration" : 18436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Command \"maximizeWindow\" is not yet implemented",
+  "statusTrace" : "Error: Command \"maximizeWindow\" is not yet implemented\n                    at Browser.retries (C:\\Workspace_js\\Webdriver_POC\\node_modules\\devtools\\build\\devtoolsdriver.js:75:15)\n                    at Browser.runCommandWithHooks (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:30)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at Browser.runCommandWithHooks (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Browser.wrapCommandFn (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Context.<anonymous> (C:\\Workspace_js\\Webdriver_POC\\test\\HotelTest.js:6:14)\n                    at Context.executeSync (C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Workspace_js\\Webdriver_POC\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testClass",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search a hotel"
+  }, {
+    "name" : "package",
+    "value" : "Find a hotel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-10.0.17763"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2e4beeda16c3d28c.json",
+  "parameterValues" : [ "Chrome-10.0.17763" ]
+}

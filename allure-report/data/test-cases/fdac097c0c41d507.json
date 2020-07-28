@@ -1,0 +1,58 @@
+{
+  "uid" : "fdac097c0c41d507",
+  "name" : "Verify and click on retrive",
+  "fullName" : "Spice max page verification.Verify and click on retrive",
+  "historyId" : "1461ab9848c61929fd87b34af2fc2d79",
+  "time" : {
+    "start" : 1595915830647,
+    "stop" : 1595915858183,
+    "duration" : 27536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Spice max page verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Spice max page verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and click on retrive"
+  }, {
+    "name" : "package",
+    "value" : "Spice max page verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdac097c0c41d507.json",
+  "parameterValues" : [ "chrome" ]
+}

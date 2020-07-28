@@ -1,0 +1,58 @@
+{
+  "uid" : "b3cf98237daadd47",
+  "name" : "Book a flight",
+  "fullName" : "Search and Book a flight.Book a flight",
+  "historyId" : "97364e9a82e39f158d3d1c6feea66392",
+  "time" : {
+    "start" : 1595915698137,
+    "stop" : 1595915725930,
+    "duration" : 27793
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and Book a flight"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and Book a flight"
+  }, {
+    "name" : "testMethod",
+    "value" : "Book a flight"
+  }, {
+    "name" : "package",
+    "value" : "Search and Book a flight"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3cf98237daadd47.json",
+  "parameterValues" : [ "chrome" ]
+}
